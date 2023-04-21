@@ -18,3 +18,8 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+
+div{
+  background-color: darkcyan;
+  text-align: right;
+}
